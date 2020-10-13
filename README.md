@@ -1,0 +1,2 @@
+# configserver
+external cloud sever
